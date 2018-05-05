@@ -1,5 +1,6 @@
 # Miembros
 
+* otro avenger
 * nick Fucty
 * Capitán America
 * Black panther
