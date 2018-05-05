@@ -2,4 +2,3 @@
 
 * Piccoro
 * Raaditz
-* Capitán America
