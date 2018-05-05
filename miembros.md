@@ -1,5 +1,6 @@
 # Miembros
 
+* nick Fucty
 * Capitán America
 * Black panther
 * Black Widow
